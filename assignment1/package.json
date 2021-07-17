@@ -1,0 +1,23 @@
+{
+  "name": "assignment1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node start",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumit811/Node-And-Express-JS.git"
+  },
+  "author": "Sumit Upadhyay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumit811/Node-And-Express-JS/issues"
+  },
+  "homepage": "https://github.com/sumit811/Node-And-Express-JS#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
